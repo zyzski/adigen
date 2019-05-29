@@ -1,0 +1,30 @@
+{
+  "name": "adigen",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --watch"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "chalk": "^2.4.2",
+    "user-agents": "^1.0.258",
+    "uuid": "^3.3.2"
+  },
+  "devDependencies": {
+    "eslint": "^5.16.0",
+    "jest": "^24.8.0"
+  },
+  "eslintConfig": {
+    "env": {
+      "node": true
+    }
+  },
+  "prettier": {
+    "semi": true,
+    "printWidth": 200
+  }
+}
