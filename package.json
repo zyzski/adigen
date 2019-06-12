@@ -9,7 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "axios": "^0.18.0",
+    "axios": "^0.18.1",
     "chalk": "^2.4.2",
     "user-agents": "^1.0.258",
     "uuid": "^3.3.2"
